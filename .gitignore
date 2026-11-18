@@ -1,0 +1,10 @@
+build/
+build_*/
+results_ci/
+__pycache__/
+.pytest_cache/
+.venv/
+*.pyc
+*.obj
+*.exe
+*.pdb
